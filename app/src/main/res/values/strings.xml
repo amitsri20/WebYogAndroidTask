@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">webyog</string>
+    <string name="participentText">Participents:</string>
+    <string name="button_undo">Undo</string>
+</resources>
